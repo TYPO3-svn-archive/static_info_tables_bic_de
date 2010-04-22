@@ -23,8 +23,7 @@
 *  This copyright notice MUST APPEAR in all copies of the script!
 ***************************************************************/
 
-define('PATH_toThisScript', t3lib_extMgm::extPath('static_info_tables_bic_de'));
-define('theCSVFile', PATH_toThisScript . 'new_bic_file.csv');
+define('theCSVFile', PATH_typo3conf . 'ext/static_info_tables_bic_de/' . 'new_bic_file.csv');
 
 /**
  * Class for updating the db
