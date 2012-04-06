@@ -28,7 +28,7 @@ $EM_CONF[$_EXTKEY] = array(
 	'clearcacheonload' => 0,
 	'lockType' => '',
 	'author' => 'Michael Staatz',
-	'author_email' => 'info@mduttlinger.de',
+	'author_email' => 'mstaatz@me.com',
 	'author_company' => '',
 	'CGLcompliance' => '',
 	'CGLcompliance_note' => '',
@@ -42,7 +42,6 @@ $EM_CONF[$_EXTKEY] = array(
 		'suggests' => array(
 		),
 	),
-	'_md5_values_when_last_written' => 'a:8:{s:20:"class.ext_update.php";s:4:"5c9a";s:12:"ext_icon.gif";s:4:"90d1";s:14:"ext_tables.php";s:4:"26c6";s:25:"ext_tables_static+adt.sql";s:4:"3376";s:19:"icon_static_bic.gif";s:4:"90d1";s:16:"locallang_db.php";s:4:"4dda";s:7:"tca.php";s:4:"99d4";s:10:"doc/README";s:4:"e229";}',
 );
 
 ?>
